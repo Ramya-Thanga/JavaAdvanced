@@ -1,0 +1,3 @@
+2024-04-18 22:03:39,945 WARN  [XmlConversionLearning] This is warning message
+2024-04-18 22:03:39,946 ERROR [XmlConversionLearning] This is error
+2024-04-18 22:03:39,946 FATAL [XmlConversionLearning] this is fatal

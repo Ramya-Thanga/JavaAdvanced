@@ -1,0 +1,4 @@
+I have now written file content using buffered writer
+Winter is Coming!!
+I like GOT but not a fan..
+Love ELR :D
